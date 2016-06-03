@@ -1,0 +1,16 @@
+node_modules
+packages
+.nuget
+Debug
+Release
+ipch
+bin
+obj
+
+*.suo
+*.sdf
+*.aps
+*.bak
+*.opensdf
+*.db
+*.ini

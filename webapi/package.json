@@ -1,0 +1,34 @@
+{
+	"name": "StockWebApi_server",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node main.js config.js"
+	},
+	"dependencies": {
+		"express": "4.x",
+		"morgan": "*",
+		"express-error-handler": "*",
+		"method-override": "*",
+		"cookie-parser": "*",
+		"body-parser": "*",
+		"raw-body": "*",
+		"busboy": "*",
+		"bytes": "*",
+		"on-finished": "*",
+		"media-typer": "*",
+		"type-is": "*",
+
+		"unzip": "*",
+		"swig": "*",
+		"async": "*",
+		"require-all": "*",
+		"hashmap": "*",
+		"request": "*",
+		"mysql": "*"
+	},
+	"engines": {
+	    "node": "0.10.25"
+	}
+}
+
